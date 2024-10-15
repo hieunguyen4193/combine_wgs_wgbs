@@ -7,3 +7,4 @@
 - hg19ToHg38.over.chain: chain file for converting hg19 to hg38. 
 - all_cpg_in_450_tmd_regions.csv: all CpG in the TMD450 panels, hg38.	
 - panel.hg19_liftover_to_hg38.bed: TMD450 panel, hg38.
+- SampleSheet_WGS.20241015.csv: Sample Sheet, path to WGS hg19 `bam`files. 
